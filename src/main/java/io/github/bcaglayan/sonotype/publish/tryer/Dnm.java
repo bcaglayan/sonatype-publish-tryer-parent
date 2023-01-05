@@ -1,4 +1,4 @@
-package com.tryer.sonotype.publish.tryer;
+package io.github.bcaglayan.sonotype.publish.tryer;
 
 public class Dnm {
 
